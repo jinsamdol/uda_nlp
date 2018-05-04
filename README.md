@@ -1,3 +1,6 @@
+# This is my Udacity NLP works. All source code is from UDACITY, and my work is implementation of core parts.
+
+
 # AIND: Natural Language Processing
 
 Coding exercises for the Natural Language Processing concentration, part of Udacity's Artificial Intelligence Nanodegree program.
